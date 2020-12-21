@@ -21,7 +21,7 @@ Nascido e criado no Rio de Janeiro. Me considero uma pessoa positiva, com visão
 </p>
 
 <p align="left">
-  <a href="patrickbarbosa.dp@gmail.com" alt="Gmail" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRrnWQkdZJXvFcLTJcMqwbLsphGwZGmZpwBhDbJhlxDcHzjMdfsQLmGFJQPrdLBMwjzBbf" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/patrick-barbosa-069b86138/" alt="Linkedin" target="_blank">
