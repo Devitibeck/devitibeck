@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+Me chamo Patrick Barbosa, tenho 24 anos.
+Nascido e criado no Rio de Janeiro. Me considero uma pessoa positiva, com visão ampla para todas as possibilidades de crescimento, sempre em busca de novos conhecimentos. Sou muito autodidata e me concluo bem nisso. Amo a vida como ela é , amo matemática e completamente apaixonado por tecnologias.
+
+<strong>Sou atuante na área de desenvolvimento web a 5 anos com a liguagem PHP usando o nosso querido framework LARAVEL </strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
@@ -10,11 +13,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Laravl</strong> , <strong>Versionamento de códigos (Git e Github)</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Alguma dúvida? Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
