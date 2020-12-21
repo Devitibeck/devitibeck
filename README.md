@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Me chamo Patrick Barbosa, tenho 24 anos.
+Me chamo Patrick, tenho 24 anos.
 Nascido e criado no Rio de Janeiro. Me considero uma pessoa positiva, com visão ampla para todas as possibilidades de crescimento, sempre em busca de novos conhecimentos. Sou muito autodidata e me concluo bem nisso. Amo a vida como ela é , amo matemática e completamente apaixonado por tecnologias.
 
 <strong>Sou atuante na área de desenvolvimento web há 6 anos com a liguagem PHP usando o nosso querido framework LARAVEL </strong>.<br>
