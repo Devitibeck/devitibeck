@@ -13,7 +13,7 @@ Nascido e criado no Rio de Janeiro. Me considero uma pessoa positiva, com visão
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Laravel</strong> , <strong>Versionamento de códigos (Git e Github)</strong>
+  💼 Ferramentas: <strong>Laravel</strong> , <strong>Versionamento de versões (Git e Github)</strong>
 </p>
 
 <p align="left">
