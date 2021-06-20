@@ -4,7 +4,7 @@
 Me chamo Patrick, tenho 24 anos.
 Nascido e criado no Rio de Janeiro. Me considero uma pessoa positiva, com visão ampla para todas as possibilidades de crescimento, sempre em busca de novos conhecimentos. Sou muito autodidata e me concluo bem nisso. Amo a vida como ela é , amo matemática e completamente apaixonado por tecnologias.
 
-<strong>Sou atuante na área de desenvolvimento web há 6 anos com a liguagem PHP usando o nosso querido framework LARAVEL </strong>.<br>
+<strong>Sou atuante na área de desenvolvimento web com a liguagem PHP usando o nosso querido framework LARAVEL </strong>.<br>
   Atualmente por preferência atuo home office
 </p>
 
